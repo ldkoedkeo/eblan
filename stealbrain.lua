@@ -37,7 +37,6 @@ local OBJECT_EMOJIS = {
 
 -- Список отслеживаемых объектов
 local OBJECT_NAMES = {
-    "La Vacca Saturno Saturnita",
     "Chimpanzini Spiderini",
     "Los Tralaleritos",
     "Las Tralaleritas",
