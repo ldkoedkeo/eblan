@@ -20,7 +20,7 @@ local ESP_SETTINGS = {
 
 -- Список объектов с эмодзи
 local OBJECT_EMOJIS = {
-    ["La Vacca Saturno Saturnita"] = "🐮",
+    ["La Vacca Saturno Saturnita"] = "😊",
     ["Chimpanzini Spiderini"] = "🕷",
     ["Los Tralaleritos"] = "🐟",
     ["Las Tralaleritas"] = "🌸",
